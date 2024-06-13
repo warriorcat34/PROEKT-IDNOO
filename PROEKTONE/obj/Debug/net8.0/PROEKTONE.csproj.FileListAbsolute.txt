@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programirane\PROEKTONE\PROEKTONE\bin\Debug\net8.0\PROEKTONE.exe
+C:\Users\Admin\Desktop\Programirane\PROEKTONE\PROEKTONE\bin\Debug\net8.0\PROEKTONE.deps.json
+C:\Users\Admin\Desktop\Programirane\PROEKTONE\PROEKTONE\bin\Debug\net8.0\PROEKTONE.runtimeconfig.json
+C:\Users\Admin\Desktop\Programirane\PROEKTONE\PROEKTONE\bin\Debug\net8.0\PROEKTONE.dll
+C:\Users\Admin\Desktop\Programirane\PROEKTONE\PROEKTONE\bin\Debug\net8.0\PROEKTONE.pdb
+C:\Users\Admin\Desktop\Programirane\PROEKTONE\PROEKTONE\obj\Debug\net8.0\PROEKTONE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programirane\PROEKTONE\PROEKTONE\obj\Debug\net8.0\PROEKTONE.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programirane\PROEKTONE\PROEKTONE\obj\Debug\net8.0\PROEKTONE.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programirane\PROEKTONE\PROEKTONE\obj\Debug\net8.0\PROEKTONE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programirane\PROEKTONE\PROEKTONE\obj\Debug\net8.0\PROEKTONE.dll
+C:\Users\Admin\Desktop\Programirane\PROEKTONE\PROEKTONE\obj\Debug\net8.0\refint\PROEKTONE.dll
+C:\Users\Admin\Desktop\Programirane\PROEKTONE\PROEKTONE\obj\Debug\net8.0\PROEKTONE.pdb
+C:\Users\Admin\Desktop\Programirane\PROEKTONE\PROEKTONE\obj\Debug\net8.0\PROEKTONE.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programirane\PROEKTONE\PROEKTONE\obj\Debug\net8.0\ref\PROEKTONE.dll

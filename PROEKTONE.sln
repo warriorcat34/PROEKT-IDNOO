@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROEKTONE", "PROEKTONE\PROEKTONE.csproj", "{2B57E1FB-5D8A-4BE9-BAE9-9123CAA41A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadacha2", "zadacha2\zadacha2.csproj", "{E3839C85-768F-4204-9815-5918CE26FB72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B57E1FB-5D8A-4BE9-BAE9-9123CAA41A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B57E1FB-5D8A-4BE9-BAE9-9123CAA41A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B57E1FB-5D8A-4BE9-BAE9-9123CAA41A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B57E1FB-5D8A-4BE9-BAE9-9123CAA41A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3839C85-768F-4204-9815-5918CE26FB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3839C85-768F-4204-9815-5918CE26FB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3839C85-768F-4204-9815-5918CE26FB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3839C85-768F-4204-9815-5918CE26FB72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EFBC0C5-D2BA-4B1D-B4F7-F9EE330FBD71}
+	EndGlobalSection
+EndGlobal
